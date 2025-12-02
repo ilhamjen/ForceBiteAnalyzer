@@ -1,0 +1,10 @@
+G:\INSTITUT TEKNOLOGI SEPULUH NOPEMBER\SEMESTER 3\SPS\TEMATIK MEDICAL\Final\Bismillah_FINAL_ForceBite\Bismillah_FINAL_ForceBite\bin\Debug\Bismillah_FINAL_ForceBite.exe.config
+G:\INSTITUT TEKNOLOGI SEPULUH NOPEMBER\SEMESTER 3\SPS\TEMATIK MEDICAL\Final\Bismillah_FINAL_ForceBite\Bismillah_FINAL_ForceBite\bin\Debug\Bismillah_FINAL_ForceBite.exe
+G:\INSTITUT TEKNOLOGI SEPULUH NOPEMBER\SEMESTER 3\SPS\TEMATIK MEDICAL\Final\Bismillah_FINAL_ForceBite\Bismillah_FINAL_ForceBite\bin\Debug\Bismillah_FINAL_ForceBite.pdb
+G:\INSTITUT TEKNOLOGI SEPULUH NOPEMBER\SEMESTER 3\SPS\TEMATIK MEDICAL\Final\Bismillah_FINAL_ForceBite\Bismillah_FINAL_ForceBite\obj\Debug\Bismillah_FINAL_ForceBite.csproj.AssemblyReference.cache
+G:\INSTITUT TEKNOLOGI SEPULUH NOPEMBER\SEMESTER 3\SPS\TEMATIK MEDICAL\Final\Bismillah_FINAL_ForceBite\Bismillah_FINAL_ForceBite\obj\Debug\Bismillah_FINAL_ForceBite.Properties.Resources.resources
+G:\INSTITUT TEKNOLOGI SEPULUH NOPEMBER\SEMESTER 3\SPS\TEMATIK MEDICAL\Final\Bismillah_FINAL_ForceBite\Bismillah_FINAL_ForceBite\obj\Debug\Bismillah_FINAL_ForceBite.csproj.GenerateResource.cache
+G:\INSTITUT TEKNOLOGI SEPULUH NOPEMBER\SEMESTER 3\SPS\TEMATIK MEDICAL\Final\Bismillah_FINAL_ForceBite\Bismillah_FINAL_ForceBite\obj\Debug\Bismillah_FINAL_ForceBite.csproj.CoreCompileInputs.cache
+G:\INSTITUT TEKNOLOGI SEPULUH NOPEMBER\SEMESTER 3\SPS\TEMATIK MEDICAL\Final\Bismillah_FINAL_ForceBite\Bismillah_FINAL_ForceBite\obj\Debug\Bismillah_FINAL_ForceBite.exe
+G:\INSTITUT TEKNOLOGI SEPULUH NOPEMBER\SEMESTER 3\SPS\TEMATIK MEDICAL\Final\Bismillah_FINAL_ForceBite\Bismillah_FINAL_ForceBite\obj\Debug\Bismillah_FINAL_ForceBite.pdb
+G:\INSTITUT TEKNOLOGI SEPULUH NOPEMBER\SEMESTER 3\SPS\TEMATIK MEDICAL\Final\Bismillah_FINAL_ForceBite\Bismillah_FINAL_ForceBite\obj\Debug\Bismillah_FINAL_ForceBite.exe.config
